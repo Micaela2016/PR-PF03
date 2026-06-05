@@ -38,7 +38,7 @@ PFO3/
 ├── cliente/
 │   └── cliente.py           # Cliente para enviar tareas y recibir resultados
 ├── diagrama/
-│   └── arquitectura         # Diagrama visual de arquitectura
+│   └── arquitectura.jpg         # Diagrama visual de arquitectura
 ├── .gitignore               # Archivos ignorados por Git
 ├── requirements.txt         # Dependencias opcionales
 └── README.md                # Este archivo
@@ -54,7 +54,7 @@ PFO3/
 
 1. **Clonar el repositorio**
 ```bash
-git clone <url-del-repositorio>
+git clone [<url-del-repositorio>](https://github.com/Micaela2016/PR-PF03.git)
 cd PFO3
 ```
 
